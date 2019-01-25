@@ -2,6 +2,7 @@
   "status":"00000",
   "data":{
     "access_token":"xxx",
+    "userId":"123",
     "username":"hongshu",
     "nickname":"宇智波弘树",
     "avatars":"https://avatars3.githubusercontent.com/u/7197577?s=400&u=7dee648fdb4fc7da15805a42952435cae28572d8&v=4"
